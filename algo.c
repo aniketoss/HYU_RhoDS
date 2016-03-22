@@ -1,3 +1,7 @@
+//
+// 결과적으로 실패한 프로그램이긴하지만 이쁜 프로그램을 짜기위한 변수 설정 방법 , 주석처리 참고용
+//
+
 #define _CRT_SECURE_NO_WARNINGS
 #define SIZE 10 // the size of sub arrays n'
 #define MAX_SIZE 60 // the size of N.
