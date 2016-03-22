@@ -1,2 +1,3 @@
 # HYU_RhoDS
-한양대 노미나 교수님 자료구조 스터디!
+
+Data Structure course in Hanyang Univ. ( prof. Rho mina )
